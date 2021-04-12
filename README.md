@@ -3,11 +3,11 @@
 Projeto de uma agenda de contatos, implementada em Ruby com Rails.
 
 # Executando o projeto
-Com o Ruby e Rails instalados, execute o comando ```ruby 
-rails s
-```.
+Com o Ruby e Rails instalados, execute o comando
+```ruby rails s```.
 
-O projeto estará disponível em ```ruby
+O projeto estará disponível em:
+```ruby 
 localhost:3000
 ```
 
