@@ -5,7 +5,8 @@ Rails.application.routes.draw do
   #controller + action (function)
   root to: "static_pages#index"
 
-
   get 'about', to: 'static_pages#about'
   get 'address', to: 'static_pages#address'
+
+  
 end
